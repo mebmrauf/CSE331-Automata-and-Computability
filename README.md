@@ -4,6 +4,14 @@
 
 <h1>Additional Resources</h1>
 
+<h3>Previous Mid Questions</h3>
+
+https://drive.google.com/drive/folders/1qq24OO39tbwgd6nSucdW_2duTsszyth1
+
+<h3>Previous Final Questions</h3>
+
+https://drive.google.com/drive/folders/1kjvMfqVVRNHv6eWBZWPz9-VQsj3J3kVZ
+
 <h3>Mursalin (MHB) Sir’s Recording:</h3>
 
 https://drive.google.com/drive/folders/179OApcX9k_8GBFM3Suea1_SEwTpyReRW?usp=sharing
