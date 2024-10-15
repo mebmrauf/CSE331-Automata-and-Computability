@@ -2,15 +2,17 @@
 
 <p>An introduction to finite representation of infinite objects and basic mathematical models of computation. Finite automata and regular languages, pushdown automata and context free languages. Turing machines. Church's Thesis. Partial recursive functions. Undecidability. Reducibility and completeness. Halting problem. Time complexity and NP-completeness. Probabilistic computation. Interactive proof systems.</p>
 
-<h1>Additional Resources</h1>
+<h1>Previous Questions</h1>
 
-<h3>Previous Mid Questions</h3>
+<h3>Mid Questions</h3>
 
 https://drive.google.com/drive/folders/1qq24OO39tbwgd6nSucdW_2duTsszyth1
 
-<h3>Previous Final Questions</h3>
+<h3>Final Questions</h3>
 
 https://drive.google.com/drive/folders/1kjvMfqVVRNHv6eWBZWPz9-VQsj3J3kVZ
+
+<h1>Additional Resources</h1>
 
 <h3>Mursalin (MHB) Sir’s Recording:</h3>
 
