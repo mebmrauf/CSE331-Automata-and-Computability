@@ -1,7 +1,5 @@
 # CSE331-Automata-and-Computability
 
-<h1>Course Description</h1>
-
 <p>An introduction to finite representation of infinite objects and basic mathematical models of computation. Finite automata and regular languages, pushdown automata and context free languages. Turing machines. Church's Thesis. Partial recursive functions. Undecidability. Reducibility and completeness. Halting problem. Time complexity and NP-completeness. Probabilistic computation. Interactive proof systems.</p>
 
 <h1>Additional Resources</h1>
