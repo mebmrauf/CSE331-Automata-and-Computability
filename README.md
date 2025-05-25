@@ -2,7 +2,7 @@
 
 <p>An introduction to finite representation of infinite objects and basic mathematical models of computation. Finite automata and regular languages, pushdown automata and context free languages. Turing machines. Church's Thesis. Partial recursive functions. Undecidability. Reducibility and completeness. Halting problem. Time complexity and NP-completeness. Probabilistic computation. Interactive proof systems.</p>
 
-# Course Objectives
+## Course Objectives
 
 1. To explain the fundamentals of formal languages, grammars, and automata theory.
 
@@ -12,26 +12,20 @@
 
 4. To give tools to show the limitations of various computational model
 
-<h1>Additional Resources</h1>
+## Additional Resources
 
-<h3>Mursalin (MHB) Sir’s Recording:</h3>
+### Mursalin (MHB) Sir’s Recording
+    https://drive.google.com/drive/folders/179OApcX9k_8GBFM3Suea1_SEwTpyReRW?usp=sharing
 
-https://drive.google.com/drive/folders/179OApcX9k_8GBFM3Suea1_SEwTpyReRW?usp=sharing
+### Farhan Sir’s Playlist
+    https://www.youtube.com/watch?v=vPrOmBKQfdw&list=PLBENQsMXh3gz85EJ3ZCSa9l9hnUiOer-H&ab_channel=FarhanFeroz
 
-<h3>Farhan Sir’s Playlist:</h3>
+### MIT Playlist
+    https://www.youtube.com/watch?v=9syvZr-9xwk&list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY
 
-https://www.youtube.com/watch?v=vPrOmBKQfdw&list=PLBENQsMXh3gz85EJ3ZCSa9l9hnUiOer-H&ab_channel=FarhanFeroz
-
-<h3>MIT Playlist:</h3>
-
-https://www.youtube.com/watch?v=9syvZr-9xwk&list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY
-
-<h3>Neso Academy:</h3>
-
-https://www.youtube.com/watch?v=58N2N7zJGrQ&list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev
-
+### Neso Academy
+    https://www.youtube.com/watch?v=58N2N7zJGrQ&list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev
 [Pumping Lemma not recommended]
 
-<h3>Anisul Islam: (Bangla Tutorial)</h3>
-
-https://www.youtube.com/watch?v=O_FWltVBwQM&list=PLgH5QX0i9K3qw5pu16QgnKNj91Rnjoyd0
+### Anisul Islam: (Bangla Tutorial)
+    https://www.youtube.com/watch?v=O_FWltVBwQM&list=PLgH5QX0i9K3qw5pu16QgnKNj91Rnjoyd0
