@@ -12,16 +12,6 @@
 
 4. To give tools to show the limitations of various computational model
 
-<h1>Previous Questions</h1>
-
-<h3>Mid Questions</h3>
-
-https://drive.google.com/drive/folders/1qq24OO39tbwgd6nSucdW_2duTsszyth1
-
-<h3>Final Questions</h3>
-
-https://drive.google.com/drive/folders/1kjvMfqVVRNHv6eWBZWPz9-VQsj3J3kVZ
-
 <h1>Additional Resources</h1>
 
 <h3>Mursalin (MHB) Sir’s Recording:</h3>
