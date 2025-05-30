@@ -12,20 +12,23 @@
 
 4. To give tools to show the limitations of various computational model
 
-## Additional Resources
+## Playlist
 
-### Mursalin (MHB) Sir’s Recording
+### MHB
     https://drive.google.com/drive/folders/179OApcX9k_8GBFM3Suea1_SEwTpyReRW?usp=sharing
 
-### Farhan Sir’s Playlist
+### FHZ
     https://www.youtube.com/watch?v=vPrOmBKQfdw&list=PLBENQsMXh3gz85EJ3ZCSa9l9hnUiOer-H&ab_channel=FarhanFeroz
 
-### MIT Playlist
+### KKP
+    https://youtube.com/playlist?list=PLib4rFadvfrckeiUjBjYWnxtyUmW5-X8r&si=Xpll5QdmeobzZ9iR
+
+### MIT
     https://www.youtube.com/watch?v=9syvZr-9xwk&list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY
 
 ### Neso Academy
     https://www.youtube.com/watch?v=58N2N7zJGrQ&list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev
 [Pumping Lemma not recommended]
 
-### Anisul Islam: (Bangla Tutorial)
+### Anisul Islam
     https://www.youtube.com/watch?v=O_FWltVBwQM&list=PLgH5QX0i9K3qw5pu16QgnKNj91Rnjoyd0
