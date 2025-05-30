@@ -18,10 +18,10 @@
     https://drive.google.com/drive/folders/179OApcX9k_8GBFM3Suea1_SEwTpyReRW?usp=sharing
 
 ### FHZ
-    https://www.youtube.com/watch?v=vPrOmBKQfdw&list=PLBENQsMXh3gz85EJ3ZCSa9l9hnUiOer-H&ab_channel=FarhanFeroz
+    https://youtube.com/playlist?list=PLBENQsMXh3gz85EJ3ZCSa9l9hnUiOer-H
 
 ### KKP
-    https://youtube.com/playlist?list=PLib4rFadvfrckeiUjBjYWnxtyUmW5-X8r&si=Xpll5QdmeobzZ9iR
+    https://youtube.com/playlist?list=PLib4rFadvfrckeiUjBjYWnxtyUmW5-X8r
 
 ### MIT
     https://www.youtube.com/watch?v=9syvZr-9xwk&list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY
